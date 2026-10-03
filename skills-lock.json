@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "video-processing-editing": {
+      "source": "curiositech/some_claude_skills",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/video-processing-editing/SKILL.md",
+      "computedHash": "0ddd9a2a4061dc45edfaddecfb6f2221d42edf0427d435dbb472ead88c3feefe"
+    }
+  }
+}
