@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "motion-craft": {
+      "source": "stianlars1/larsen-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/larsen-skills/skills/motion-craft/SKILL.md",
+      "computedHash": "b9876b6d76c713920c26e558f1488b8050ed7cbf2e89fb96c060d528dcca267a"
+    },
     "video-processing-editing": {
       "source": "curiositech/some_claude_skills",
       "sourceType": "github",
