@@ -6,6 +6,12 @@
       "sourceType": "github",
       "skillPath": ".claude/skills/video-processing-editing/SKILL.md",
       "computedHash": "0ddd9a2a4061dc45edfaddecfb6f2221d42edf0427d435dbb472ead88c3feefe"
+    },
+    "videoediting": {
+      "source": "blazerior/videoediting-claude-skill",
+      "sourceType": "github",
+      "skillPath": "skill/videoediting/SKILL.md",
+      "computedHash": "22b7b7bc26d6d79937c29157eeea848da76d8af92cbfbff591a1a77ee35c43f4"
     }
   }
 }
