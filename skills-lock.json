@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "critique-composition": {
+      "source": "infrasity-labs/dev-gtm-claude-skills",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/critique-composition/SKILL.md",
+      "computedHash": "418cb5e3b3b70b0fba19d129f028ff25ed52f03a0dd3e64ac40172ed56b2a7a5"
+    },
     "motion-craft": {
       "source": "stianlars1/larsen-skills",
       "sourceType": "github",
